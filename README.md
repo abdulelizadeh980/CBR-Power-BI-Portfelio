@@ -7,7 +7,8 @@ The **CBR Report** is a Power BI dashboard that presents a comprehensive analysi
 
 ## 🖼️ Dashboard Preview
 
-![CBR Report Dashboard](Ekran şəkli 2025-07-26 111638.png)
+![CBR Report Dashboard](.<img width="1333" height="743" alt="Ekran şəkli 2025-07-26 111638" src="https://github.com/user-attachments/assets/da68bb2e-3dc8-4bd4-bee6-6c16ee3e2a55" />
+)
 
 ---
 
